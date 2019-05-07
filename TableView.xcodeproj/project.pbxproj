@@ -12,6 +12,7 @@
 		3C01159122782AA1007F011C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C01158F22782AA1007F011C /* Main.storyboard */; };
 		3C01159322782AA5007F011C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C01159222782AA5007F011C /* Assets.xcassets */; };
 		3C01159622782AA5007F011C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C01159422782AA5007F011C /* LaunchScreen.storyboard */; };
+		3C92230022815DD8009A4786 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C9222FF22815DD8009A4786 /* RedViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3C01159222782AA5007F011C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C01159522782AA5007F011C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C01159722782AA5007F011C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C9222FF22815DD8009A4786 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3C01158B22782AA1007F011C /* AppDelegate.swift */,
 				3C01158D22782AA1007F011C /* ViewController.swift */,
 				3C01158F22782AA1007F011C /* Main.storyboard */,
+				3C9222FF22815DD8009A4786 /* RedViewController.swift */,
 				3C01159222782AA5007F011C /* Assets.xcassets */,
 				3C01159422782AA5007F011C /* LaunchScreen.storyboard */,
 				3C01159722782AA5007F011C /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C01158E22782AA1007F011C /* ViewController.swift in Sources */,
+				3C92230022815DD8009A4786 /* RedViewController.swift in Sources */,
 				3C01158C22782AA1007F011C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
